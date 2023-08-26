@@ -1,0 +1,29 @@
+.vision {
+    background-color: white;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.vision .container{
+    width: 700px;
+}
+.vision p{
+    width: 500px;
+    margin: auto;
+}
+.vision h5, .business h6{
+    margin: 0px;
+}
+.vision h6{
+    margin-top: 10px;
+}
+.vision h5{
+    margin-bottom: 50px;
+}
+@media (max-width: 600px) {
+    .vision .container{
+        width: 95%;
+    }
+    .vision p{
+        width: 300px;
+    }
+}

@@ -1,0 +1,51 @@
+.moraAbout{
+    overflow: hidden;
+    background-color: white;  
+    margin-bottom: 50px;
+}
+.moraAbout .container{
+    gap: 20px;
+}
+.moraAbout .container div{
+    color: var(--main_color);
+    border: 10px solid #eec8a8 ;
+    padding: 10px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: relative;
+    cursor: pointer;
+    z-index: 14;
+}
+.moraAbout .container div::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 50%;
+    border-top-left-radius: 20px;
+    background-color:#eec8a8;
+    top:0px;
+    left: 0px;
+    z-index: -1;
+    transition: .5s;
+}
+.moraAbout .container div::before{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 50%;
+    border-bottom-right-radius: 20px;
+    background-color: #eec8a8;
+    bottom:0px;
+    right: 0px;
+    z-index: -1;
+    transition: .5s;
+}
+.moraAbout .container div:hover::after{
+    width: 100%;
+}
+.moraAbout .container div:hover::before{
+    width: 100%;
+}
+.moraAbout p{
+    font-weight: bold;
+}

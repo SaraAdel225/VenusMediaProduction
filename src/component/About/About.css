@@ -1,0 +1,94 @@
+.about{
+    position: relative;
+    overflow: hidden;
+    background-color: white;
+}
+.about .container{
+    margin-top: 50px ;
+}
+.about .container .aboutImg{
+    position: relative;
+    z-index: 0;
+    width: 500px;
+    margin-top: 0px;
+    margin-left: 35px;
+    border-top-left-radius: 100px ;
+    border-bottom-right-radius: 100px ;
+    border: 10px solid #eec8a8;
+}
+.about .container .read {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 80px ;
+}
+.about .container .read::after{
+    content: "";
+    background: url(../img/square-geometry-geometric-shape-shapes-1ddc8be9eab66e5af2c367549daf6acd.png);
+    background-size: cover;
+    height: 600px;
+    width: 500px;
+    position: absolute;
+    top: -180px;
+    z-index: -1;
+}
+.about .container h4{
+    width: 500px;
+    margin-top: 50px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    position: relative;
+    line-height: 2;
+    letter-spacing: 1.1px;
+    font-weight: bold;
+    color: #866146;
+    z-index: 11;
+}
+.about .container a{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px 15px;
+    border-top-left-radius: 20px;
+    background-color: #eec8a8;
+    color: #866146;
+    border: none;
+    border-bottom-right-radius: 20px;
+    font-family: 'Cairo', sans-serif;
+    transition: .3s;
+    font-weight: bold;
+}
+.about .container a:hover{
+    background-color: #866146;
+    color:white;
+}
+@media (max-width: 980px) {
+    .about .container .read {
+        height:425px;
+    }
+}
+@media (max-width: 980px) {
+    .about .container{
+        margin-top: 0px;
+    }
+    .about .container .aboutImg{
+        width: 90%;
+        margin-bottom: 150px;
+        margin-left: 0px;
+        position: relative;
+        z-index: 0;
+    }
+    .about .container h4{
+        margin-top: 0px;
+    }
+    .about .container .read{
+        margin-bottom: 0px;
+    }
+    .about .container a{
+        display: block;
+        width: fit-content;
+        margin: auto;
+        margin-top: -69px;
+    }
+}

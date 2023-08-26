@@ -1,0 +1,14 @@
+.business{
+    margin-top: 20px;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+.swiper-button-prev,
+.swiper-button-next
+{
+    color: var(--main_color) !important;
+    font-weight: 900;
+}
+.swiper-pagination-bullet{
+    background-color: var(--main_color) !important;
+}

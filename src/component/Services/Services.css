@@ -1,0 +1,104 @@
+.services {
+    padding-top: 30px;
+    overflow: hidden;
+}
+
+.firstServices {
+    position: relative;
+    margin-top: 50px;
+}
+.firstServices h2 {
+    text-align: center;
+}
+.firstServices p {
+    color: var(--main_color);
+    text-align: center;
+    line-height: 1.5;
+}
+.firstServices .imgPhoto {
+    width: 500px;
+}
+.firstServices .top {
+    position: absolute;
+    top: 40px;
+    right: -50px;
+}
+.firstServices .container {
+    display: block;
+    margin-top: 50px;
+}
+.firstServices .container .cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    margin: 30px;
+}
+.firstServices .container .cont img {
+    width: 200px;
+}
+.firstServices .container .cont .word {
+    border-radius: 20px;
+    border: 10px solid;
+    border-image: linear-gradient(180deg, #eec8a8 0%, #8d5e55 100%);
+    border-image-slice: 1;
+    position: relative;
+    padding: 20px;
+    cursor: pointer;
+}
+.firstServices .container .cont .word h3 {
+    font-size: 17px;
+    z-index: 11;
+    position: relative;
+    color: #8d5e55;
+}
+.firstServices .container .cont .word p {
+    font-size: 15px;
+    text-align: start;
+    position: relative;
+    z-index: 11;
+    font-weight: bold;
+}
+.firstServices .container .cont .word::after {
+    content: "";
+    width: 0%;
+    height: 0%;
+    background: linear-gradient(180deg, #eec8a8 0%, #8d5e55 100%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.firstServices .container .cont .word:hover::after {
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+}
+.firstServices .container .cont .word:hover h3,
+.firstServices .container .cont .word:hover p {
+    color: white;
+}
+@media (max-width: 790px) {
+    .firstServices .container .cont {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 10px;
+        margin: 0px;
+    }
+    .firstServices .container .cont .word {
+        margin: 0px;
+        margin-bottom: 50px;
+    }
+    .firstServices .container .cont.right {
+        flex-direction: column-reverse;
+    }
+    .firstServices .top {
+        display: none;
+    }
+    .firstServices p {
+        width: 95%;
+    }
+}
