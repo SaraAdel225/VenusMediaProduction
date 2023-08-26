@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/VenusMediaProduction/static/css/main.e95eda81.css",
-    "main.js": "/VenusMediaProduction/static/js/main.26dfd512.js",
+    "main.css": "/VenusMediaProduction/static/css/main.151a3226.css",
+    "main.js": "/VenusMediaProduction/static/js/main.b995cac5.js",
     "static/js/787.8ce559cc.chunk.js": "/VenusMediaProduction/static/js/787.8ce559cc.chunk.js",
-    "static/media/Rectangle111.png": "/VenusMediaProduction/static/media/Rectangle111.ef979fe7b1410650f167.png",
     "static/media/7 Of The Worst Travel Photography___.gif": "/VenusMediaProduction/static/media/7 Of The Worst Travel Photography___.3c3e8bc4cff5eebdf674.gif",
     "static/media/7 Must-Have Accessories Fujifilm X100V _ Alik Griffin.jfif": "/VenusMediaProduction/static/media/7 Must-Have Accessories Fujifilm X100V _ Alik Griffin.e5ab01557167539a2a50.jfif",
     "static/media/digital-photography-camera-hd-laptop-png": "/VenusMediaProduction/static/media/digital-photography-camera-hd-laptop-a9aae8a8802d3e6a1978c582823f02d4.49cbb462c022b9b025c6.png",
     "static/media/It's Photography Time[1920 × 1080].jfif": "/VenusMediaProduction/static/media/It's Photography Time[1920 × 1080].017737afe4e6877a80b4.jfif",
     "static/media/Rectangle 46.png": "/VenusMediaProduction/static/media/Rectangle 46.98420c93eeb1c3daaabf.png",
     "static/media/Rectangle 49.png": "/VenusMediaProduction/static/media/Rectangle 49.115c12f11b287405b579.png",
-    "static/media/Untitled-1.png": "/VenusMediaProduction/static/media/Untitled-1.e4f39718d4d42d265a01.png",
     "static/media/Rectangle 50.png": "/VenusMediaProduction/static/media/Rectangle 50.f995eca72d7827afc669.png",
     "static/media/video-cameras-4k-resolution-professional-video-camera-camera-png": "/VenusMediaProduction/static/media/video-cameras-4k-resolution-professional-video-camera-camera-8e35c9bffb7201e5e24a6aec86926e41.4effe8db591a21d3b12d.png",
     "static/media/bus2.png": "/VenusMediaProduction/static/media/bus2.cdc7d42a2d6255e40119.png",
@@ -24,17 +22,19 @@
     "static/media/Rectangle 48.png": "/VenusMediaProduction/static/media/Rectangle 48.01930aaed457b69cb185.png",
     "static/media/photographic-film-photography-camera-camera-png": "/VenusMediaProduction/static/media/photographic-film-photography-camera-camera-b8ef09c382a887429943f81ede1485be.4e795c9dffd0542a9710.png",
     "static/media/bus4.png": "/VenusMediaProduction/static/media/bus4.446861b858f9f604798f.png",
+    "static/media/PhotographiWhite1.jfif": "/VenusMediaProduction/static/media/PhotographiWhite1.33581cc3eb0009b9dca4.jfif",
     "static/media/square-geometry-geometric-shape-shapes-png": "/VenusMediaProduction/static/media/square-geometry-geometric-shape-shapes-1ddc8be9eab66e5af2c367549daf6acd.6de2a6185c6758f03cfe.png",
-    "static/media/48 Fotos del Otoño que te Animarán a Sacar la Cámara.jfif": "/VenusMediaProduction/static/media/48 Fotos del Otoño que te Animarán a Sacar la Cámara.28b49267bd193e0dd0e9.jfif",
-    "static/media/Leica M10-P Safari limited edition camera now in stock - Leica Rumors.jfif": "/VenusMediaProduction/static/media/Leica M10-P Safari limited edition camera now in stock - Leica Rumors.9bd430d62a6d30246adb.jfif",
+    "static/media/CreativeLiveove.jfif": "/VenusMediaProduction/static/media/CreativeLiveove.afa4b79f69fb42605314.jfif",
+    "static/media/PhotographiWhite2.jfif": "/VenusMediaProduction/static/media/PhotographiWhite2.69812a517e0802332c62.jfif",
+    "static/media/PremiumPhotoVideo.jfif": "/VenusMediaProduction/static/media/PremiumPhotoVideo.cbf4ec985f8bc2dbc2af.jfif",
     "static/media/Ellipse 4 (2).png": "/VenusMediaProduction/static/media/Ellipse 4 (2).2984329d1c2dd3ead372.png",
     "index.html": "/VenusMediaProduction/index.html",
-    "main.e95eda81.css.map": "/VenusMediaProduction/static/css/main.e95eda81.css.map",
-    "main.26dfd512.js.map": "/VenusMediaProduction/static/js/main.26dfd512.js.map",
+    "main.151a3226.css.map": "/VenusMediaProduction/static/css/main.151a3226.css.map",
+    "main.b995cac5.js.map": "/VenusMediaProduction/static/js/main.b995cac5.js.map",
     "787.8ce559cc.chunk.js.map": "/VenusMediaProduction/static/js/787.8ce559cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e95eda81.css",
-    "static/js/main.26dfd512.js"
+    "static/css/main.151a3226.css",
+    "static/js/main.b995cac5.js"
   ]
 }
