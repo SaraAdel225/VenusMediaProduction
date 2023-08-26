@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VenusMediaProduction/static/css/main.151a3226.css",
-    "main.js": "/VenusMediaProduction/static/js/main.b995cac5.js",
+    "main.css": "/VenusMediaProduction/static/css/main.bbcfa313.css",
+    "main.js": "/VenusMediaProduction/static/js/main.3bc41cad.js",
     "static/js/787.8ce559cc.chunk.js": "/VenusMediaProduction/static/js/787.8ce559cc.chunk.js",
     "static/media/7 Of The Worst Travel Photography___.gif": "/VenusMediaProduction/static/media/7 Of The Worst Travel Photography___.3c3e8bc4cff5eebdf674.gif",
     "static/media/7 Must-Have Accessories Fujifilm X100V _ Alik Griffin.jfif": "/VenusMediaProduction/static/media/7 Must-Have Accessories Fujifilm X100V _ Alik Griffin.e5ab01557167539a2a50.jfif",
@@ -29,12 +29,12 @@
     "static/media/PremiumPhotoVideo.jfif": "/VenusMediaProduction/static/media/PremiumPhotoVideo.cbf4ec985f8bc2dbc2af.jfif",
     "static/media/Ellipse 4 (2).png": "/VenusMediaProduction/static/media/Ellipse 4 (2).2984329d1c2dd3ead372.png",
     "index.html": "/VenusMediaProduction/index.html",
-    "main.151a3226.css.map": "/VenusMediaProduction/static/css/main.151a3226.css.map",
-    "main.b995cac5.js.map": "/VenusMediaProduction/static/js/main.b995cac5.js.map",
+    "main.bbcfa313.css.map": "/VenusMediaProduction/static/css/main.bbcfa313.css.map",
+    "main.3bc41cad.js.map": "/VenusMediaProduction/static/js/main.3bc41cad.js.map",
     "787.8ce559cc.chunk.js.map": "/VenusMediaProduction/static/js/787.8ce559cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.151a3226.css",
-    "static/js/main.b995cac5.js"
+    "static/css/main.bbcfa313.css",
+    "static/js/main.3bc41cad.js"
   ]
 }
